@@ -1,0 +1,7 @@
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\bin\Debug\Desconto_compras.exe.config
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\bin\Debug\Desconto_compras.exe
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\bin\Debug\Desconto_compras.pdb
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\obj\Debug\Desconto_compras.csproj.AssemblyReference.cache
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\obj\Debug\Desconto_compras.csproj.CoreCompileInputs.cache
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\obj\Debug\Desconto_compras.exe
+C:\Users\matheus.psilva54\source\repos\Desconto_compras\Desconto_compras\obj\Debug\Desconto_compras.pdb
